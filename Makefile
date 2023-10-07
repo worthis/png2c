@@ -1,5 +1,3 @@
-
-
 TARGET = png2c
 
 CC 	= $(CROSS_COMPILE)gcc
